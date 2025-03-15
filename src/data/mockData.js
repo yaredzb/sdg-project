@@ -1,5 +1,3 @@
-// src/data/mockData.js
-
 export const mockOverviewData = {
     totalPartnerships: 345,
     activeProjects: 127,
@@ -8,7 +6,6 @@ export const mockOverviewData = {
   };
   
   export const mockTrendData = (timeFilter = '6months') => {
-    // Adjust data based on the time filter
     if (timeFilter === '6months') {
       return [
         { month: 'Jan', partnerships: 240, projects: 100 },
@@ -35,8 +32,6 @@ export const mockOverviewData = {
         { month: 'Jul', partnerships: 345, projects: 127 },
       ];
     } else {
-      // 3years
-      // Simplified version - would be more detailed in a real implementation
       return [
         { month: '2022-Q1', partnerships: 150, projects: 70 },
         { month: '2022-Q2', partnerships: 170, projects: 75 },

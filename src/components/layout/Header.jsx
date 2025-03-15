@@ -1,4 +1,3 @@
-// src/components/layout/Header.jsx
 import { Globe } from 'lucide-react';
 import { Link } from 'react-router-dom';
 

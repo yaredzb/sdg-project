@@ -24,10 +24,10 @@ const Dashboard = () => {
   const [sdgData, setSdgData] = useState(null);
 
   useEffect(() => {
-    // Simulate data fetching
+    
     const fetchData = async () => {
       setLoading(true);
-      // In a real implementation, this would fetch from actual APIs
+      
       const mockData = {
         overview: {
           totalPartnerships: 345,

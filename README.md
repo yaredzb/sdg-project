@@ -48,6 +48,9 @@ The dashboard provides real-time data insights on partnerships, funding allocati
 - **Cloud Deployment**: AWS, GCP, Heroku
 
 ## 💰 Project Cost
+- **Cloud Hosting & Infrastructure**:
+- **Domain & SSL Certificate**: ~$XX/year.
+- **Development Tools**: Mostly **open-source**, minimal cost.
 - **Cloud Hosting & Infrastructure**: 
 - **Domain & SSL Certificate**: 
 - **Development Tools**: Mostly **open-source**, minimal cost (At early stage).

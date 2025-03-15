@@ -20,7 +20,6 @@ const Settings = () => {
   
   const handleSubmit = (e) => {
     e.preventDefault();
-    // In a real app, save settings to backend or local storage
     console.log('Saving settings:', settings);
     alert('Settings saved successfully!');
   };

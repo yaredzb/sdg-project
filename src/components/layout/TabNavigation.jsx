@@ -1,4 +1,3 @@
-// src/components/layout/TabNavigation.jsx
 import { useDashboard } from '../../context/DashboardContext';
 
 const TabNavigation = () => {
