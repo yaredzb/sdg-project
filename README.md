@@ -54,7 +54,7 @@ The dashboard provides real-time data insights on partnerships, funding allocati
 - **Cloud Hosting & Infrastructure**: 
 - **Domain & SSL Certificate**: 
 - **Development Tools**: Mostly **open-source**, minimal cost (At early stage).
-- **Miscellaneous**: ~$XX for additional resources.
+- **Miscellaneous**: 
 
 ## 📈 Expected Impact
 - **Enhanced Decision-Making**: Data-driven insights for global partnerships.
