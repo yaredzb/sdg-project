@@ -3,7 +3,8 @@
 ![alt text](public/screenshot.png)
 
 ## 🌍 Overview
-The **Real-Time SDG Collaboration Dashboard** is a web-based platform designed to **track, analyze, and enhance global partnerships** under **Sustainable Development Goal 17 (SDG 17: Partnerships for the Goals)**. The dashboard provides real-time data insights on partnerships, funding allocations, and project impact through **AI-driven analytics and interactive visualizations**.
+The **Real-Time SDG Collaboration Dashboard** is a web-based platform designed to **track, analyze, and enhance global partnerships** under **Sustainable Development Goal 17 (SDG 17: Partnerships for the Goals)**. 
+The dashboard provides real-time data insights on partnerships, funding allocations, and project impact through **AI-driven analytics and interactive visualizations**.
 
 ## 🚀 Key Features
 - **Real-Time Data Collection**: Fetches data from sources like **UN SDG API, World Bank, and NGO reports**.
@@ -64,8 +65,7 @@ The **Real-Time SDG Collaboration Dashboard** is a web-based platform designed t
 - Develop a **mobile version** for broader accessibility.
 - Implement **blockchain-based transparency tracking**.
 
-## 📜 License
-This project is open-source and available under the **MIT License**.
+
 
 ## 👥 Contributors
 - **Wabi Jifara**
@@ -74,13 +74,6 @@ This project is open-source and available under the **MIT License**.
 - **Yared Zewde**
 - **Yeabsira Bekele**
 
-## 🤝 How to Contribute
-We welcome contributions! To get started:
-1. Fork this repository.
-2. Create a new branch (`git checkout -b feature-branch`).
-3. Commit your changes (`git commit -m "Added new feature"`).
-4. Push to the branch (`git push origin feature-branch`).
-5. Open a Pull Request.
 
 ## 📞 Contact
 For inquiries or collaboration opportunities, please email us at **yaredzbeth@gmail.com**.
