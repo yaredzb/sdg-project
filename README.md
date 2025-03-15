@@ -1,5 +1,7 @@
 # Real-Time SDG Collaboration Dashboard
 
+![alt text](public/screenshot.png)
+
 ## 🌍 Overview
 The **Real-Time SDG Collaboration Dashboard** is a web-based platform designed to **track, analyze, and enhance global partnerships** under **Sustainable Development Goal 17 (SDG 17: Partnerships for the Goals)**. The dashboard provides real-time data insights on partnerships, funding allocations, and project impact through **AI-driven analytics and interactive visualizations**.
 
